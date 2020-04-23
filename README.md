@@ -19,8 +19,6 @@ Explanation:
 Given n = 3, there are a total of 5 unique BST's
 </h4>
 
-<h4>
-	Example:
-	
-</h4>
-![Alt text](https://mathworld.wolfram.com/images/eps-gif/BinaryTrees_800.gif?raw=true "Title")
+<p align="center">
+  <img src="https://www2.cs.duke.edu/courses/fall03/cps100/assign/writtentree/all4trees.gif" width="350" title="n=4">
+</p>
